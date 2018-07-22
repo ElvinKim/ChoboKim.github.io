@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: Xixia
-description: Welcome to Xixia！
+name: 김초보
+description: 언제나 초보라는 마음으로 공부합니다.
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://github.com/zxixia/jekyll-xixia
